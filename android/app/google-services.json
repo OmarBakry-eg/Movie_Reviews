@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316763789504",
+    "firebase_url": "https://movieapp-c2ae1.firebaseio.com",
+    "project_id": "movieapp-c2ae1",
+    "storage_bucket": "movieapp-c2ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316763789504:android:ed29e6142aba86ab8c7525",
+        "android_client_info": {
+          "package_name": "com.omarbakry.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316763789504-pfaijrgs1hj61kqiqmq2ovlfjurd3nop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB47ZbYZ37hzWM9MUVGgD30GG4-UzhfEUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316763789504-pfaijrgs1hj61kqiqmq2ovlfjurd3nop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
